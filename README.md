@@ -1,6 +1,6 @@
 # Hey there, I'm Jayson 👋
 
-I'm a Computer Science student passionate about building real-world tools that solve everyday problems — especially for college students. I love exploring automation, full-stack development, and anything that lets me turn an idea into something people can actually use.
+I'm a Computer Science student passionate about building real-world tools that solve everyday problems. I love exploring full-stack development, automation and anything that lets me turn an idea into something people can actually use.
 
 - 🛠️ Developer of [LibReserve](https://github.com/ItsDevJay/LibReserve) – a Python + Selenium automation tool to reserve Rutgers study rooms faster.
 - 💻 Currently building projects that mix automation, backend logic, and user-first thinking.
